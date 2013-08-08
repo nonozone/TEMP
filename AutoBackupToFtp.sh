@@ -2,12 +2,12 @@
 #你要修改的地方从这里开始
 MYSQL_USER=root                    #mysql用户名
 MYSQL_PASS=123456                  #mysql密码
-MAIL_TO=admin@zrblog.net           #数据库发送到的邮箱
+MAIL_TO=admin@xxx.com              #数据库发送到的邮箱
 FTP_USER=zrblog                    #ftp用户名
-FTP_PASS=123456                        #ftp密码
-FTP_IP=*.*.*.*                          #ftp地址
-FTP_backup=zrblog-backup                          #ftp上存放备份文件的目录,这个要自己得ftp上面建的
-WEB_DATA=/home/wwwroot           #要备份的网站数据
+FTP_PASS=123456                    #ftp密码
+FTP_IP=*.*.*.*                     #ftp地址
+FTP_backup=zrblog-backup           #ftp上存放备份文件的目录,这个要自己得ftp上面建的
+WEB_DATA=/home/wwwroot             #要备份的网站数据
 #你要修改的地方从这里结束
 
 #定义数据库的名字和旧数据库的名字
